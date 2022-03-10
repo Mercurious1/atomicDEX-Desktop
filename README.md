@@ -46,6 +46,8 @@
     </a>
 </p>
 
+## TEST BRANCH ##
+This is a test branch
 
 ## What is AtomicDEX?
 
